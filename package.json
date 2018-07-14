@@ -2,7 +2,7 @@
   "name": "wdoc",
   "version": "0.3.3",
   "description": "Documenation generation",
-  "author": "Kostiantyn Wandalen <wtory.net@domainsbyproxy.com>",
+  "author": "Kostiantyn Wandalen <wanalen@willbe.so>",
   "license": "MIT",
   "main": "staging/dwtools/amid/doc/Doc.js",
   "files": [
