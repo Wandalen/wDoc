@@ -1,6 +1,7 @@
 {
   "name": "wdoc",
   "version": "0.3.4",
+  "enabled": 0,
   "description": "Documenation generation",
   "author": "Kostiantyn Wandalen <wanalen@willbe.so>",
   "license": "MIT",
