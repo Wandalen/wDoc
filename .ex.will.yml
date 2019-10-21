@@ -21,7 +21,7 @@ about :
 path :
 
   repository : git+https://github.com/Wandalen/wDoc.git
-  remotes :
+  origins :
    - git+https:///github.com/Wandalen/wDoc.git
    - npm:///wdoc
   bugs : https://github.com/Wandalen/wDoc/issues
